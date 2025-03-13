@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GihanMaddepola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanMaddepola&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,css,html" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanMaddepola&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,python" height="170"/>
 </div>
 
 ## 💫 About Me
