@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Gihan Maddepola
 
 <div align="center">
   
@@ -20,28 +20,33 @@
 
 ## 💫 About Me
 
-- 🎓 Undergraduate student at [Your University]
-- 🌱 I'm currently learning [Technology/Framework]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🌍 Based in [Your Location]
-- 🎯 Goals: [Your Professional Goals]
+- 🎓 Undergraduate student at NIBM
+- 🌱 I'm currently learning full-stack development, with a focus on problem-solving and Microsoft SQL Server
+- 👯 I'm looking to collaborate on projects that involve full-stack development, particularly those utilizing Microsoft technologies
+- 🌍 Based in Sri Lanka
+- 🎯 Goals: To enhance my expertise in software engineering and contribute to innovative projects within the IT industry
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  
+
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![MVC](https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-00758F?style=for-the-badge)
+  ![Database Management](https://img.shields.io/badge/Database%20Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-FF0000?style=for-the-badge)
+  ![RDLC Reporting](https://img.shields.io/badge/RDLC%20Reporting-008080?style=for-the-badge)
+  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge)
+  ![System Integration](https://img.shields.io/badge/System%20Integration-FF8C00?style=for-the-badge)
+  ![Application Optimization](https://img.shields.io/badge/Application%20Optimization-0066CC?style=for-the-badge)
+  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2ECC71?style=for-the-badge)
+  ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-1F618D?style=for-the-badge)
+  ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-F39C12?style=for-the-badge)
+
 </div>
+
 
 ## 📊 GitHub Stats
 
