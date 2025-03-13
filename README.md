@@ -15,7 +15,7 @@
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GihanMaddepola&hide=html&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GihanMaddepola&hide=html&layout=compact&token=YOUR_PERSONAL_ACCESS_TOKEN)
 
 ## 💫 About Me
 
