@@ -13,7 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F36D1&center=true&vCenter=true&width=435&lines=Software+Developer;Undergraduate+Student+at+NIBM;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GihanMaddepola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanMaddepola&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,css,html" height="170"/>
+</div>
 
 ## 💫 About Me
 
